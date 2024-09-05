@@ -794,6 +794,8 @@ section {
   right: 0;
   bottom: 0;
   transition: bottom 0.4s;
+    margin-right: 45px;
+
 }
 
 .team .member .member-info-content h4 {
